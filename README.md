@@ -1,2 +1,6 @@
-# databricks-engineering-journal
-A personal practice journal/repository for Databricks
+## Topics
+
+- [Materialized Views in Databricks](./materialized-views)
+
+
+
