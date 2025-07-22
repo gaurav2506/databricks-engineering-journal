@@ -1,8 +1,6 @@
 """Utility functions for timing and logging benchmark queries."""
-from pyspark.sql import SparkSession
-import time, json
 
-spark = SparkSession.getActiveSession()
+import time, json
 
 RESULT_TABLE = "bench_results"
 
